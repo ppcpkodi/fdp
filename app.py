@@ -1,1 +1,1 @@
-printf("hello python");
+hello python
